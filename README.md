@@ -2,10 +2,10 @@
 - I’m currently learning ECE 205
 - I'm originally from Hawaii, Waipahu
 - I'm a senior majoring in Electrical Engineering
-- I chose my major because I'm interested in projects that relate to electricity
+- I chose my major because I'm interested in electrical projects 
 - A fun fact about me is I love to golf
-- What do I want to learn from EE 205?  Other than it being an elective class, I want to gain more knowledge in coding
--A book or movie I'd recommend is: Four Agreements
+- What do I want to learn from EE 205?  Other than it being an elective class, I want to expand my skills in coding
+- A book or movie I'd recommend is: Four Agreements
 
 <!--
 **jaredgungap/jaredgungap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
