@@ -1,6 +1,6 @@
 ## Hi, I'm Jared Gungap
 - I’m currently learning ECE 205
-- I'm originally from Hawaii, Waipahu
+- I'm originally from Waipahu, Hawaii
 - I'm a senior majoring in Electrical Engineering
 - I chose my major because I'm interested in electrical projects 
 - A fun fact about me is I love to golf
