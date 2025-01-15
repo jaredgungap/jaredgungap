@@ -1,7 +1,7 @@
 ## Hi, I'm Jared Gungap
 - I’m currently learning ECE 205
 - I'm originally from Hawaii, Waipahu
-- I'm a senior
+- I'm a senior majoring in Electrical Engineering
 - I chose my major because I'm interested in projects that relate to electricity
 - A fun fact about me is I love to golf
 - What do I want to learn from EE 205?  Other than it being an elective class, I want to gain more knowledge in coding
